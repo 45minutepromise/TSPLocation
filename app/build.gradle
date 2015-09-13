@@ -24,4 +24,6 @@ dependencies {
     compile fileTree(dir: 'libs', include: 'Parse-*.jar')
     compile 'com.android.support:appcompat-v7:22.2.1'
     compile 'com.parse.bolts:bolts-android:1.+'
+    compile 'com.google.android.gms:play-services:7.8.0'
+    compile 'com.google.android.gms:play-services-maps:7.8.0'
 }
